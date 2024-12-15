@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b71a1504-8b96-4252-97b4-58e6c9a7aaa2" name="Changes" comment="" />
+    <list default="true" id="b71a1504-8b96-4252-97b4-58e6c9a7aaa2" name="Changes" comment="Movie app added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fibonacci/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fibonacci/Solution.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -46,18 +50,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.fibonacci.Main.executor": "Run",
-    "Application.multiple.Main.executor": "Run",
-    "Application.palindrome.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "code/fibonacci",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fibonacci.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.multiple.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.palindrome.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;lab-1&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.multiple.Main">
+}</component>
+  <component name="RunManager" selected="Application.fibonacci.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="exercise 1" />
@@ -106,10 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.multiple.Main" />
         <item itemvalue="Application.fibonacci.Main" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.palindrome.Main" />
+        <item itemvalue="Application.multiple.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.multiple.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -122,6 +128,15 @@
       <option name="presentableId" value="Default" />
       <updated>1730716828409</updated>
     </task>
+    <task id="LOCAL-00001" summary="Movie app added">
+      <option name="closed" value="true" />
+      <created>1734269881221</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734269881221</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,5 +149,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge remote-tracking branch 'origin/code/fibonacci'" />
+    <MESSAGE value="Movie app added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Movie app added" />
   </component>
 </project>
